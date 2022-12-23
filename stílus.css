@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    text-align: center; /*ez a kód középre helyezi a szöveget*/
+}
+body{
+    background-color:rgb(69, 69, 184);
+
+}
+p{
+    text-align: center;
+    color:white;
+} /*css-ben nincs <,>*/
+.sarga{
+    color:yellow;
+}
+.zold{
+    color:rgb(68, 158, 68);
+    text-align: center;
+}
